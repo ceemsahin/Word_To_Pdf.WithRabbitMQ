@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word_To_Pdf.Producer", "Word_To_Pdf.Producer\Word_To_Pdf.Producer.csproj", "{D04F2C20-96B1-41D9-82D4-7B4E252A0136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word_To_Pdf.Consumer", "Word_To_Pdf.Consumer\Word_To_Pdf.Consumer.csproj", "{8D3107F0-01AF-4246-9F3E-37115C5020E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04F2C20-96B1-41D9-82D4-7B4E252A0136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04F2C20-96B1-41D9-82D4-7B4E252A0136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04F2C20-96B1-41D9-82D4-7B4E252A0136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04F2C20-96B1-41D9-82D4-7B4E252A0136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3107F0-01AF-4246-9F3E-37115C5020E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3107F0-01AF-4246-9F3E-37115C5020E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3107F0-01AF-4246-9F3E-37115C5020E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3107F0-01AF-4246-9F3E-37115C5020E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B535C1C2-1D15-4F0D-AF00-8E061B355C8A}
+	EndGlobalSection
+EndGlobal
